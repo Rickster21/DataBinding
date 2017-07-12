@@ -1,0 +1,11 @@
+<resources>
+    <string name="yolo">You only live Once</string>
+    <string name="odu">Or do you</string>
+    <string name="its">I think so</string>
+    <string name="niks">No I know so! YOLO!</string>
+    <string name="app_name">Data Binding</string>
+    <string name="change">Change Button</string>
+    <string name="next">Next Screen</string>
+</resources>
+
+
